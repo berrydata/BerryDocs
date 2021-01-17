@@ -1,7 +1,5 @@
 # Current data feeds
 
-
-
 | ID | Data | Granularity | Transformation |
 | :--- | :--- | :--- | :--- |
 | 1 | ETH/USD | 1000000 | Median |
