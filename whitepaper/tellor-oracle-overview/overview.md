@@ -1,6 +1,6 @@
 # Flow of Work
 
-BERRY is an oracle system where parties can request the value of an off-chain data point and miners compete to add this value to an on-chain data-bank, accessible by all dApps on Biance Smart Chain. The inputs to this data-bank are secured by a network of staked miners. BERRY utilizes crypto-economic incentive mechanisms, rewarding honest data submissions by miners and punishing bad actors, through the issuance of BERRY’s governance token, BRY, and a dispute mechanism.
+BERRY is an oracle system where parties can request the value of an off-chain data point and miners compete to add this value to an on-chain data-bank, accessible by all dApps on Binance Smart Chain. The inputs to this data-bank are secured by a network of staked miners. BERRY utilizes crypto-economic incentive mechanisms, rewarding honest data submissions by miners and punishing bad actors, through the issuance of BERRY’s governance token, BRY, and a dispute mechanism.
 
 \*\*\*\*1 **Data Request is submitted**: The user submits a query to Berry Data to incentivize miners to choose this query over other submissions. Other users who want the same data pay this data series to further incentivize selection by miners.
 
