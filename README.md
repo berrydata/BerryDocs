@@ -12,7 +12,7 @@ Berry Data is the transparent, community-verified price oracles on BSC. Berry pr
 
 BERRY is an oracle system where parties can request the value of an off-chain data point and miners compete to add this value to an on-chain data-bank, accessible by all dApps on Binance Smart Chain. The inputs to this data-bank are secured by a network of staked miners. BERRY utilizes crypto-economic incentive mechanisms, rewarding honest data submissions by miners and punishing bad actors, through the issuance of BERRY’s governance token, BRY, and a dispute mechanism.
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%286%29.png)
 
 ## Berry Governance Token \(BRY\)
 

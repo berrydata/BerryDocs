@@ -14,12 +14,6 @@ BERRY is an oracle system where parties can request the value of an off-chain da
 
 ![A brief flow about how Berry works ](../../.gitbook/assets/image-2020-06-05-10-40-41.jpg)
 
-### 
-
-![Berry takes the median as the official value](../../.gitbook/assets/tellor_infographics2_median_def_cropped.png)
-
-
-
 ## Charge Model
 
 The initial phase of the project \(6 months after launch\) is free of charge for partners to provide on-chain quotes, and as demand increases, the project will consider charging to form a healthy business model to help the project develop better.
