@@ -26,7 +26,3 @@
 * [Reference](integration/reference-page/README.md)
   * [Variable Hashes](integration/reference-page/variable-hashes.md)
 
-## Liquidity Mining
-
-* [Introduction](liquidity-mining/introduction.md)
-
