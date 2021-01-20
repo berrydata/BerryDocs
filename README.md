@@ -18,9 +18,7 @@ BERRY is an oracle system where parties can request the value of an off-chain da
 
 BRY is the governance token of Berry Data. BRY is designed to empower the broader DeFi ecosystem to drive the creation of a fully transparent and community-owned, open-source Oracle platform on the Binance Smart Chain.
 
-![](.gitbook/assets/image%20%285%29.png)
-
-## Why Hold BRY?
+## Token Use Case
 
 ![](.gitbook/assets/image%20%283%29.png)
 
