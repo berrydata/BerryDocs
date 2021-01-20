@@ -6,7 +6,7 @@ BERRY is an oracle system where parties can request the value of an off-chain da
 
 \*\*\*\*2 **Miners begin to work**: Miners submit their PoW solution and off-chain data points to the Seer contract. The Berry contract sorts the values as they come in and as soon as five values are received, the official value \(median of the five\) is selected and saved on-chain.
 
-\*\*\*\*3 **Data Feeds are generated and distributed**: Every 3 minutes, Berry's smart contract selects the best-funded queries and provides a new challenge for miners to solve.
+\*\*\*\*3 **Data Feeds are generated and distributed**: Every 2.5 minutes, Berry's smart contract selects the best-funded queries and provides a new challenge for miners to solve.
 
 \*\*\*\*4 **Wrong Data can be disputed**: Anyone holding Berry governance token \(BRY\) can dispute the validity of a mined value by paying a dispute fee. Over the next two days, Berry token holders will vote on the validity of the data point.
 
