@@ -20,7 +20,7 @@ BRY is the governance token of Berry Data. BRY is designed to empower the broade
 
 ## Token Use Case
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 ## Berry’s Roadmap
 
