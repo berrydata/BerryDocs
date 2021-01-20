@@ -8,7 +8,7 @@ description: About Berry governance token (BRY)
 
 ## Token Distribution Model
 
-The total supply of BRY is 13,333,333.
+The total supply of BRY is 13,750,000.
 
 | Token Model | % | Token use |
 | :--- | :--- | :--- |
