@@ -13,3 +13,7 @@
 * [Berry Governance Token \(BRY\)](whitepaper/berry-token/README.md)
   * [Use of Token](whitepaper/berry-token/use-of-token.md)
 
+## Integration
+
+* [Untitled](integration/untitled.md)
+
