@@ -8,17 +8,23 @@ description: About Berry governance token (BRY)
 
 ## Token Distribution Model
 
-The total supply of BRY is 13,750,000.
+The total supply of BRY is 12,500,000. Token distribution is as follows:
+
+60% - Mining: 40% will be provided through data mining; 20% will be provided through liquidity mining;
+
+24% - Ecosystem fund: will be used for partners to build Berry Data project and its ecosystem as a Vault;
+
+16% - IFO: will be sold on Pancake IFO.
+
+Every time when BRY tokens are mined, smart contracts will generate 10% BRY tokens as team rewards to incentivize hard work and better commitment to the project.
 
 | Token Model | % | Token use |
 | :--- | :--- | :--- |
-| **Reserve** | 35% | will be reserved for future plans |
-| **Mining** | 25% | will be provided through liquidity mining |
-| **Ecosystem Fund** | 15% | will be used for partners to build Berry Data project and its ecosystem as a Vault |
-| **IFO** | 15% | will be sold on Pancake IFO |
-| **Team** | 10% | will be released evenly over 24 months |
+| **Mining** | 60% | 40% will be provided through data mining; 20% will be provided through liquidity mining |
+| **Ecosystem Fund** | 24% | will be used for partners to build Berry Data project and its ecosystem as a Vault |
+| **IFO** | 16% | will be sold on Pancake IFO |
 
-![Token allocation model of BRY](../../.gitbook/assets/image%20%281%29.png)
+![Token allocation model of BRY](../../.gitbook/assets/image%20%283%29.png)
 
 ## Ecosystem Fund
 
