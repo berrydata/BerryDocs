@@ -32,5 +32,3 @@ Berry Data implements a 15 percent ecosystem fund. This revenue stream will be m
 
 ☑ Incentivize governance participation
 
-##  
-

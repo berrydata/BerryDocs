@@ -6,7 +6,7 @@ description: >-
 
 # Dispute
 
-BERRY data values can always be disputed and taken off-chain. However the longer a user waits once the data is submitted on-chain, the more probable it is to remain, and therefore be secure; assuming any value that remains on-chain is valid due to economic incentives to dispute invalid ones.   
+BERRY data values can always be disputed and taken off-chain. However the longer a user waits once the data is submitted on-chain, the more probable it is to remain, and therefore be secure; assuming any value that remains on-chain is valid due to economic incentives to dispute invalid ones.
 
 ## How to dispute?
 
