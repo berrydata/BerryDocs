@@ -5,11 +5,11 @@
 ## Whitepaper
 
 * [Introduction](whitepaper/introduction.md)
-* [How Berry Data Works](whitepaper/tellor-oracle-overview/README.md)
-  * [Flow of Work](whitepaper/tellor-oracle-overview/overview.md)
-  * [Dispute](whitepaper/tellor-oracle-overview/disputes.md)
-  * [Network of Miners](whitepaper/tellor-oracle-overview/mining.md)
-* [Roadmap](whitepaper/security.md)
-* [Berry Governance Token \(BRY\)](whitepaper/tellor-token/README.md)
-  * [Use of Token](whitepaper/tellor-token/use-of-token.md)
+* [How Berry Data Works](whitepaper/how-berry-works/README.md)
+  * [Flow of Work](whitepaper/how-berry-works/berry-work-flow.md)
+  * [Dispute](whitepaper/how-berry-works/disputes.md)
+  * [Network of Miners](whitepaper/how-berry-works/miner-network.md)
+* [Roadmap](whitepaper/berry-roadmap.md)
+* [Berry Governance Token \(BRY\)](whitepaper/berry-token/README.md)
+  * [Use of Token](whitepaper/berry-token/use-of-token.md)
 
