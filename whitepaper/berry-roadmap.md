@@ -6,21 +6,21 @@ description: Want to know the future plans for Berry?  You've come to the right 
 
 ## 🚩 2020Q3
 
-Project setup: The white paper, product design, the team was created in this period by a professional and experienced team.
+Project setup: Complete creating a team with professional and experienced talents; complete whitepaper, product design, economic model, etc...
 
 ## 🚩 2020Q4
 
-Tech development, BSC test net launch
+Technology development; launch BSC\(Binance Smart Contract\) testnet.
 
 ## 🚩 2021Q1
 
-BSC mainnet will be launched, the partnership will be expanded, and the product upgraded with Tipping, Dispute functions.
+Launch mainnet on BSC; expand partnership with mainstream projects; upgrading product fountains such as tipping functions, dispute functions, etc...
 
 ## 🚩 2021Q2
 
-ETH main-net will be launched, and the product will be upgraded on the smart contract.
+Launch mainnet on Ethereum; upgrading smart contract functions, security, UI, etc...
 
 ## 🚩 2021Q3
 
-BERRY ecosystem buildup and pricing model will be designed.
+Building a bigger and strong Berry Data ecosystem and keep polish the oracle product.
 

@@ -4,17 +4,17 @@ description: About Berry governance token (BRY)
 
 # Berry Governance Token \(BRY\)
 
-**BRY** is the governance token of Berry Data. **BRY** is designed to empower the broader DeFi ecosystem to drive the creation of a fully transparent and community owned, open-source Oracle platform on Binance Smart Chain.
+BRY is Berry Data’s governance token. BRY is designed to empower the broader DeFi ecosystem to drive the creation of a fully transparent, community-owned, and open-source oracle platform on Binance Smart Chain.
 
 ## Token Distribution Model
 
-The total supply of BRY is 12,500,000. Token distribution is as follows:
+The total BRY token circulation is 12,500,000. Token distribution is as follows:
 
-60% - Mining: 40% will be provided through data mining; 20% will be provided through liquidity mining;
+60% - Mining: 40% will be provided through data mining; 20% will be provided through liquidity mining
 
-24% - Ecosystem fund: will be used for partners to build Berry Data project and its ecosystem as a Vault;
+24% - Ecosystem Fund: will be used for partners to build Berry Data project and its ecosystem as a vault
 
-16% - IFO: will be sold on Pancake IFO.
+16% - IFO: will be sold on PancakeSwap IFO
 
 Every time when BRY tokens are mined, smart contracts will generate 10% BRY tokens as team rewards to incentivize hard work and better commitment to the project.
 

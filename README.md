@@ -6,17 +6,18 @@ description: Some FQA about Berry Data
 
 ## Who is Berry?
 
-Berry Data is the transparent, community-verified price oracles on BSC. Berry provides a trustless and decentralized alternative for off-chain data. It provides the infrastructure for decentralized applications to query off-chain data by properly incentivizing miners to provide data.
+Berry Data is a transparent community-veriﬁed price oracle on BSC\(Binance Smart Chain\). Berry Data provides a trustless and decentralized alternative for off-chain data. Also, it provides the infrastructure for decentralized applications to query off-chain data by properly incentivizing miners to provide data.  
+
 
 ## How does Berry work?
 
-BERRY is an oracle system where parties can request the value of an off-chain data point and miners compete to add this value to an on-chain data-bank, accessible by all dApps on Binance Smart Chain. The inputs to this data-bank are secured by a network of staked miners. BERRY utilizes crypto-economic incentive mechanisms, rewarding honest data submissions by miners and punishing bad actors, through the issuance of BERRY’s governance token, BRY, and a dispute mechanism.
+Berry Data is an oracle system that parties can request the value of an off-chain data point and miners compete to add this value to an on-chain data-bank, accessible by all DApps on Binance Smart Chain. The inputs to this data-bank are secured by a staked miners network. Berry Data utilizes crypto-economic incentive mechanisms, rewarding honest data submissions by miners and punishing bad actors, through the issuance of Berry Data’s governance token, BRY, and a dispute mechanism.
 
 ![](.gitbook/assets/image%20%286%29.png)
 
 ## Berry Governance Token \(BRY\)
 
-BRY is the governance token of Berry Data. BRY is designed to empower the broader DeFi ecosystem to drive the creation of a fully transparent and community-owned, open-source Oracle platform on the Binance Smart Chain.
+BRY is Berry Data’s governance token. BRY is designed to empower the broader DeFi ecosystem to drive the creation of a fully transparent, community-owned, and open-source oracle platform on Binance Smart Chain.
 
 ## Token Use Case
 
