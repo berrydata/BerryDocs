@@ -33,7 +33,7 @@ _Twitter:_ [https://twitter.com/berry\_data](https://twitter.com/berry_data)
 
 _Medium:_[https://medium.com/@berrydata](https://medium.com/@berrydata)
 
-_Telegram:_ [_https://t.me/berrydata_](https://t.me/berrydata)\_\_
+_Telegram:_ [_https://t.me/berrydata_](https://t.me/berrydata)
 
 \_\_
 
