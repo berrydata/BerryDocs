@@ -10,17 +10,27 @@ Project setup: Complete creating a team with professional and experienced talent
 
 ## 🚩 2020Q4
 
-Technology development; launch BSC\(Binance Smart Contract\) testnet.
+Technology development, and launch BSC\(Binance Smart Contract\) testnet.
 
 ## 🚩 2021Q1
 
-Launch mainnet on BSC; expand partnership with mainstream projects; upgrading product fountains such as tipping functions, dispute functions, etc...
+**Launch Berry Data Mainnet**
+
+* **Berry Data Oracle** can provide on-chain data feeds in every 2.5 minutes on request 
+* **Miner tools** will be released and miners can win BRY tokens rewards and services tips by providing data feeds in Berry oracle 
+* **Data feeds "plug-in" tools** will be released that dApps on Binance Smart Chain can easily access and require on-chain price feeds by easily engaging with Berry oracle 
+* Creating more **strategic partners**
 
 ## 🚩 2021Q2
 
-Launch mainnet on Ethereum; upgrading smart contract functions, security, UI, etc...
+**Berry Data V2 Will be Launched with an Upgrade in Smart Chain and Governance**
 
-## 🚩 2021Q3
+* **The updated Berry Data smart chain** will take into consideration of reputation and track records of miners and source of data as important components for data selection. Those well-behaved miners and high qualified sources can get extra bonus. 
+* **Disputes Center** will be launched where every BRY token holder can monitor and dispute error data. Those who execute successful disputes will win huge rewards from the team. 
+* **More partners** will be on board to access on-chain data feeds through Berry Data
 
-Building a bigger and strong Berry Data ecosystem and keep polish the oracle product.
+## 🚩 2021Q3 ~
+
+* ETH main-net will be launched 
+* Building a bigger and stronger Berry Data ecosystem and keep polish the oracle product.
 
