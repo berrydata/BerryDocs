@@ -15,7 +15,7 @@ git clone https://github.com/berrydata/BerryMiner
 ./release_build.sh
 ```
 
-After build user will get `BerryMiner`,  Then user should config for run mining
+After build, user will get `BerryMiner`,  Then user should config for run mining
 
 ## Configuration reference
 
