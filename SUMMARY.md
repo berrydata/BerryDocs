@@ -14,4 +14,5 @@
 * [Roadmap](whitepaper/berry-roadmap.md)
 * [Berry Governance Token \(BRY\)](whitepaper/berry-token/README.md)
   * [Use of Token](whitepaper/berry-token/use-of-token.md)
+* [How to Use Berry](whitepaper/sample-use-berry.md)
 
