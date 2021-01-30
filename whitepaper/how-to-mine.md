@@ -13,9 +13,15 @@ Now, Berry Data support Linux and MacOS for mining OS. User can use CLI or use D
 ```bash
 git clone https://github.com/berrydata/BerryMiner
 ./release_build.sh
+
+./BerryMiner mine
 ```
 
-After build, user will get `BerryMiner`,  Then user should config for run mining
+Before user can run mine command, user should do config setting for running.
+
+## Run with Docker
+
+Coming soon
 
 ## Configuration reference
 
@@ -39,7 +45,7 @@ BerryMiner **Commands**
 * `stake status` \(shows your staking balance\)
 * `balance` \(shows your balance\)
 
-**.env file options:**
+**.env file options, optional:**
 
 * `NODE_URL` \(required\) - node URL \(e.g [https://mainnet.infura.io/bbbb](https://mainnet.infura.io/bbbb) or [https://localhost:8545](https://localhost:8545) if own node\)
 * `ETH_PRIVATE_KEY` \(required\) - privateKey for your address
@@ -49,6 +55,7 @@ BerryMiner **Commands**
 
 * `contractAddress` \(required\) - address of Berry Contract
 * `databaseURL` \(required\) - where you are reading from for the server database \(if hosted\)
+* `nodeURL` \(optional\) - When you connect to Ethereum Node. It can be set here or in `.env` file
 * `publicAddress` \(required\) - public address for your miner \(note, no 0x\)
 * `ethClientTimeout` \(required\) - timeout for making requests from your node
 * `trackerCycle` \(required\) - how often your database updates \(in seconds\)
@@ -66,6 +73,7 @@ BerryMiner **Commands**
 * `disputeTimeDelta` - how far back to store values for min/max range - default 5 \(in minutes\)
 * `disputeThreshold` - percentage of acceptable range outside min/max for dispute checking - default
 * `psrFolder` - folder location holding your psr.json file, default working directory
+* `privateKey` - private key for miner node to sign transaction, without prefix 0x
 
 
 
@@ -88,10 +96,4 @@ WARN - logs all warnings and errors
 ERROR - logs only serious errors
 
 
-
-
-
-
-
-## Run with Docker
 
