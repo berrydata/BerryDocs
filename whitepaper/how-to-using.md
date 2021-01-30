@@ -2,7 +2,7 @@
 description: Here are the nuts and bolts for using Berry to get price
 ---
 
-# How to Using
+# How to Use Berry
 
 ### **Checking Last Update**
 

@@ -2,7 +2,7 @@
 description: Sample project UsingBerry
 ---
 
-# How to Use Berry
+# Using Berry Sample
 
 **The Berry oracle** is a decentralized oracle on Binance Smart Chain. It provides an option for contracts to securely interact with and obtain data from off-chain.
 

@@ -1,5 +1,5 @@
 ---
-description: Here are the nuts and bolts for mine
+description: 'Here are the nuts and bolts for mine, and provide price for Berry Oracle'
 ---
 
 # How to Mine
