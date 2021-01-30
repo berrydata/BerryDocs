@@ -30,15 +30,21 @@ contract BtcPriceContract is UsingBerry {
 
 BSC Testnet: `0x8af6EAbf2b4dA47FD9640CC0EcE16e52BEe4728f`
 
-BSC Mainnet: \`\`
+BSC Mainnet: 
 
+## Pre Set Request ID
 
+1, BTC/USD
 
-Price ID:
+2, ETH/USD
 
-1: BTC/USD
+3, LINK/USD
 
-2:ETH/USD
+4, LTC/USD
+
+5, XRP/USD
+
+6, BNB/USD
 
 
 
