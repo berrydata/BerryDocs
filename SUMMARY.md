@@ -9,10 +9,14 @@
   * [Flow of Work](whitepaper/how-berry-works/berry-work-flow.md)
   * [Dispute](whitepaper/how-berry-works/disputes.md)
   * [Network of Miners](whitepaper/how-berry-works/miner-network.md)
-* [How to Mine](whitepaper/how-to-mine.md)
-* [How to Use Berry](whitepaper/how-to-using.md)
-* [Using Berry Sample](whitepaper/sample-use-berry.md)
 * [Roadmap](whitepaper/berry-roadmap.md)
 * [Berry Governance Token \(BRY\)](whitepaper/berry-token/README.md)
   * [Use of Token](whitepaper/berry-token/use-of-token.md)
+
+## INTEGRATION
+
+* [How to Use Berry](integration/how-to-using.md)
+* [How to Mine](integration/how-to-mine.md)
+* [Using Berry Sample](integration/sample-use-berry.md)
+* [Current Data Feeds](integration/current-data-feeds.md)
 

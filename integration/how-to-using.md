@@ -92,13 +92,11 @@ BSC Mainnet:
 
 2, ETH/USD
 
-3, LINK/USD
+3, LTC/USD
 
-4, LTC/USD
+4, XRP/USD
 
-5, XRP/USD
-
-6, BNB/USD
+5, BNB/USD
 
 
 
