@@ -31,9 +31,11 @@ BRY is Berry Data’s governance token. BRY is designed to empower the broader D
 
 _Twitter:_ [https://twitter.com/berry\_data](https://twitter.com/berry_data)
 
-_Medium:_[https://medium.com/@berrydata](https://medium.com/@berrydata)
+_Medium:_[_https://medium.com/berry-data-official_](https://medium.com/berry-data-official/)\_\_
 
 _Telegram:_ [_https://t.me/berrydata_](https://t.me/berrydata)
+
+_Github:_ [_https://github.com/berrydata_](https://github.com/berrydata)\_\_
 
 \_\_
 
