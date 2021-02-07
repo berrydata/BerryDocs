@@ -1,5 +1,5 @@
 ---
-description: Some FQA about Berry Data
+description: Some FAQ about Berry Data
 ---
 
 # Welcome
