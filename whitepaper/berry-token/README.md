@@ -12,11 +12,11 @@ The total BRY token circulation is 12,500,000. Token distribution is as follows:
 
 55% - Mining: 40% of BRY will be mined out as block rewards to miners in the Berry oracle network; 15% of BRY will be provided through liquidity mining
 
-23% - Ecosystem Fund: will be used for partners to build Berry Data project and its ecosystem as a vault. 5% will be used for the initial listing campaign and creating pools; 18% will be locked for 2 years and will be released every quarter
+23% - Ecosystem Fund: will be used for partners to build Berry Data project and its ecosystem as a vault. 7% will be used for the initial listing campaign and creating pools; 16% will be locked for 2 years and will be released every quarter
 
 16% - IFO: will be sold on PancakeSwap IFO
 
-6% - Team: will be locked for 2 years and will be released every quarter
+6% - Team: will be locked for 2 years and will be released every quarter. Team vesting will start from the second quarter after the listing
 
 
 
