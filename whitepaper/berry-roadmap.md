@@ -10,7 +10,7 @@ Project setup: Complete creating a team with professional and experienced talent
 
 ## 🚩 2020Q4
 
-Technology development, and launch BSC\(Binance Smart Contract\) testnet.
+Technology development, and launch BSC\(Binance Smart Chain\) testnet.
 
 ## 🚩 2021Q1
 
