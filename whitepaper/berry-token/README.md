@@ -2,7 +2,7 @@
 description: About Berry governance token (BRY)
 ---
 
-# Berry Governance Token \(BRY\)
+# Berry Token \(BRY\)
 
 BRY is Berry Data’s governance token. BRY is designed to empower the broader DeFi ecosystem to drive the creation of a fully transparent, community-owned, and open-source oracle platform on Binance Smart Chain.
 
