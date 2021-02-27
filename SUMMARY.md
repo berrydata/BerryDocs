@@ -12,7 +12,7 @@
 * [Roadmap](whitepaper/berry-roadmap.md)
 * [Berry Governance Token \(BRY\)](whitepaper/berry-token/README.md)
   * [Use of Token](whitepaper/berry-token/use-of-token.md)
-* [Guidance of Liquidity Mining](whitepaper/guidance-of-liquidity-mining.md)
+* [Guidance for Liquidity Mining](whitepaper/guidance-for-liquidity-mining.md)
 
 ## INTEGRATION
 

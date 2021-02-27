@@ -1,2 +1,0 @@
-# Guidance of Liquidity Mining
-
