@@ -80,13 +80,9 @@ contract BtcPriceContract is UsingBerry {
 }
 ```
 
-#### Address:
 
-BSC Testnet: `0x8af6EAbf2b4dA47FD9640CC0EcE16e52BEe4728f`
 
-BSC Mainnet: 
-
-#### Pre Set Request ID
+### Pre Set Request ID
 
 1, BTC/USD
 
