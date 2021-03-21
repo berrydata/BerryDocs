@@ -6,7 +6,7 @@ description: 'Here are the nuts and bolts for mine, and provide price for Berry 
 
 ## Get Miner
 
-Now, Berry Data support Linux and MacOS for mining OS. User can use CLI or use Docker to run miner.
+Now, Berry Data support Linux and MacOS for mining OS. Users can use CLI or use Docker to run Miner.
 
 ## Run CLI
 
@@ -17,7 +17,7 @@ git clone https://github.com/berrydata/BerryMiner
 ./BerryMiner mine
 ```
 
-Before user can run mine command, user should do config setting for running.
+Before the user can run mine command, the user should do a config setting for running.
 
 ## Run with Docker
 
@@ -37,7 +37,7 @@ BerryMiner **Commands**
 * `mine` \(indicates to run the miner\)
 * `mine -r` \(indicates to mine utilizing a remote server\)
 * `dataserver` \(indicates to run the dataServer \(no mining\)\)
-* `transfer` \(AMOUNT\) \(TO ADDRESS\) \(indicates transfer, toAddress is ETH/BSC address and amount is number of Tributes \(eg. transfer 10 0xea... \(this transfers 10 tokens\)\)\)
+* `transfer` \(AMOUNT\) \(TO ADDRESS\) \(indicates transfer, toAddress is ETH/BSC address and the amount is number of Tributes \(eg. transfer 10 0xea... \(this transfers 10 tokens\)\)\)
 * `approve` \(AMOUNT\) \(TO ADDRESS\) \(amount to approve the to address to send this amount of tokens
 * `stake deposit` \(indicates to deposit tokens in the contract\)
 * `stake request` \(indicates you wish to withdraw your stake\)
@@ -47,7 +47,7 @@ BerryMiner **Commands**
 
 **.env file options, optional:**
 
-* `NODE_URL` \(required\) - node URL \(e.g [https://mainnet.infura.io/bbbb](https://mainnet.infura.io/bbbb) or [https://localhost:8545](https://localhost:8545) if own node\)
+* `NODE_URL` \(required\) - node URL 
 * `ETH_PRIVATE_KEY` \(required\) - privateKey for your address
 * `$PSR$_KEY` - API key for getting a specific indexes.json api \(required if you use authenticated API's\)
 
@@ -64,7 +64,7 @@ BerryMiner **Commands**
 * `serverHost` \(required\) - location to host server
 * `serverWhitelist` \(required\) - whitelists which publicAddress can access the data server
 * `fetchTimeout` - timeout for requesting data from an API
-* `requestData` - sets wether your miner request data if challenge is 0.  If yes, then you will addTip\(\) to this number.  Enter a uint number representing request id to be requested \(e.g. 2\)
+* `requestData` - sets wether your miner request data if the challenge is 0.  If yes, then you will addTip\(\) to this number.  Enter a uint number representing request id to be requested \(e.g. 2\)
 * `requestDataInterval` - min frequency at which to request data at \(in seconds, default 30\)
 * `gasMultiplier` - Multiplies the submitted gasPrice \(e.g. 2 will double gas costs\)
 * `gasMax` - a max for the gas price in gwei \(note: this max comes BEFORE the gas multiplier.  So a max gas cost of 10 gwei, can have gas prices up to 20 if gasMultiplier is 2\)
