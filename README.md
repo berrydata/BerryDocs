@@ -6,16 +6,16 @@ description: Some FAQ about Berry Data
 
 ## Who is Berry?
 
-Berry Data is a transparent community-veriﬁed price oracle on BSC\(Binance Smart Chain\). Berry Data provides a trustless and decentralized alternative for off-chain data. Also, it provides the infrastructure for decentralized applications to query off-chain data by properly incentivizing miners to provide data.  
+Berry Data is a transparent community-veriﬁed price oracle on BSC(Binance Smart Chain). Berry Data provides a trustless and decentralized alternative for off-chain data. Also, it provides the infrastructure for decentralized applications to query off-chain data by properly incentivizing miners to provide data.\
 
 
 ## How does Berry work?
 
 Berry Data is an oracle system that parties can request the value of an off-chain data point and miners compete to add this value to an on-chain data-bank, accessible by all DApps on Binance Smart Chain. The inputs to this data-bank are secured by a staked miners network. Berry Data utilizes crypto-economic incentive mechanisms, rewarding honest data submissions by miners and punishing bad actors, through the issuance of Berry Data’s governance token, BRY, and a dispute mechanism.
 
-![](.gitbook/assets/image%20%286%29.png)
+![](<.gitbook/assets/image (6).png>)
 
-## Berry Governance Token \(BRY\)
+## Berry Governance Token (BRY)
 
 BRY is Berry Data’s governance token. BRY is designed to empower the broader DeFi ecosystem to drive the creation of a fully transparent, community-owned, and open-source oracle platform on Binance Smart Chain.
 
@@ -31,7 +31,7 @@ The total BRY token circulation is 12,500,000. Token distribution is as follows:
 
 ## Token Use Case
 
-![](.gitbook/assets/image%20%287%29.png)
+![](<.gitbook/assets/image (7).png>)
 
 ## Berry’s Roadmap
 
@@ -52,10 +52,19 @@ Berry will dedicate to BSC ecosystem to improve its oracle product and expand pa
 * **Disputes Center** will be launched where every BRY token holder can monitor and dispute error data. Those who execute successful disputes will win huge rewards from the team.
 * **More partners** will be on board to access on-chain data feeds through Berry Data
 
-**2021Q3**
+**2021Q3 - Q4**
 
-* ETH main-net will be launched
-* Building a bigger and stronger Berry Data ecosystem and keep polish the oracle product.
+* Building a bigger and stronger Berry Data ecosystem and keep polishing the oracle product.
+
+**2022**
+
+* Add more data feeds, aggregate and connect real-world data and APIs to smart contracts&#x20;
+* Launch V2 Berry Data oracle platform with improved feature and user experience&#x20;
+* Multichain development&#x20;
+* Expand into more countries and regions market&#x20;
+* Onboard more strategic partners&#x20;
+* Additional NFT extending&#x20;
+* Explore oracle facilities to support NFT, gaming, and metaverse
 
 ## About Team
 
@@ -65,13 +74,13 @@ Berry Data's team has 6 full-time team members, including 3 developers and 3 ope
 
 Former IRISnet Senior Technical Architecture for 2 years; ex community code contributor for Cosmos; ex- senior Developers for JD.com. Graduated from Peking University with a master's degree in computer science.
 
-**Mandy NG  - Berry Data COO** 
+**Mandy NG  - Berry Data COO **
 
 Former Kucoin Exchange BD manager, experienced in coin listing in the APAC region, she has close connections with most of the mainstream exchanges and leading blockchain projects. Before Kucoin, she worked for IBM as a Sales Manager for 3 years. Graduated from University College London with a master's degree in marketing.
 
 **Dr. Tom HAO - Berry Data Leading Scientist**
 
-He received his Ph.D. degree from Jilin University\(China\) in Computer Science. Focus on cryptography and computer security. He will be Berry Data developing leader for product security.
+He received his Ph.D. degree from Jilin University(China) in Computer Science. Focus on cryptography and computer security. He will be Berry Data developing leader for product security.
 
 ## Motivation and Dedication
 
@@ -79,13 +88,12 @@ Berry will dedicate to BSC ecosystem and it will work with Defi projects on BSC 
 
 ## Follow Berry
 
-_Twitter:_ [https://twitter.com/berry\_data](https://twitter.com/berry_data)
+_Twitter:_ [https://twitter.com/berry\_data](https://twitter.com/berry\_data)
 
-_Medium:_[_https://medium.com/berry-data-official_](https://medium.com/berry-data-official/)\_\_
+_Medium:_[_https://medium.com/berry-data-official_](https://medium.com/berry-data-official/)__
 
 _Telegram:_ [_https://t.me/berrydata_](https://t.me/berrydata)
 
-_Github:_ [_https://github.com/berrydata_](https://github.com/berrydata)\_\_
+_Github: _[_https://github.com/berrydata_](https://github.com/berrydata)__
 
 \_\_
-
